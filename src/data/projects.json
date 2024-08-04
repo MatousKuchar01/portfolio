@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "Na tomto projektu se právě pracuje!",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/MatousKuchar01"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "Na tomto projektu se právě pracuje!",
+      "skills": ["PHP", "SQL", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/MatousKuchar01"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "Na tomto projektu se právě pracuje!",
+      "skills": ["Python", "Tableau", "Excel"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/MatousKuchar01"
+    }
+  ]

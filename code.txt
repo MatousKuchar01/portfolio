@@ -1,0 +1,5 @@
+<a className={`${styles.title} ${spin ? styles.spin : ''}`} href='/' onClick={handleTitleClick}>Portfolio</a>
+
+import { useHistory } from 'react-router-dom';
+
+

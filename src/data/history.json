@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Správa webového portálu a databází",
+      "organisation": "Livesport",
+      "startDate": "Červen, 2021",
+      "endDate": " Leden, 2024",
+      "experiences": ["Management týmu a řízení správnosti provozu webu"],
+      "imageSrc": "history/livesport.png"
+    },
+    {
+      "role": "SW vývojář",
+      "organisation": "Comgate",
+      "startDate": "Červen, 2024",
+      "endDate": "současnost",
+      "experiences": ["Vývoj několika firemních projektů a zajišťování provozu IT infrastruktury"],
+      "imageSrc": "history/comgate.png"
+    }
+  ]
