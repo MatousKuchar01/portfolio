@@ -1,10 +1,10 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "Na tomto projektu se právě pracuje!",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
+      "title": "REACT COFFEE",
+      "imageSrc": "projects/project1.png",
+      "description": "Atomický web pro kávové nadšence!",
+      "skills": ["React", "Tailwind CSS"],
+      "demo": "https://react-coffee-site.netlify.app/",
       "source": "https://www.github.com/MatousKuchar01"
     },
     {
